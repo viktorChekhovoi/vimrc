@@ -65,6 +65,11 @@ set langmenu=en
 source $VIMRUNTIME/delmenu.vim
 source $VIMRUNTIME/menu.vim
 
+" Display line number and highlight current line
+set number
+set cursorline 
+set cursorline
+
 " Turn on the Wild menu
 set wildmenu
 
